@@ -1,4 +1,8 @@
 _repo: Worlds-Within-Worlds-The-Story-of-Nuclear-Energy-Volume-3-of-3-Nuclear-Fission-Nuclear-Fusion__49821
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49821-h/images/cover.jpg
 creator:
   author:
     agent_name: Asimov, Isaac
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35316
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Asimov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49821#Worlds-Within-Worlds-The-Story-of-Nuclear-Energy-Volume-3-of-3-Nuclear-Fission-Nuclear-Fusion_
 gutenberg_issued: '2015-08-30'
 gutenberg_type: Text
 identifiers:
